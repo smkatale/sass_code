@@ -3,7 +3,7 @@
 
 html{
     height: 100vh;
-    @include coverimage('images/coffee.jpg');
+    @include coverimage('https://github.com/smkatale/sass_code/blob/main/images/coffee.jpg');
 }
 
 body
