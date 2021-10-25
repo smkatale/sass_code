@@ -28,14 +28,14 @@ body
 
 .btn-types{
     @extend %btn;
-    background-color: aquamarine;
+    background-color: #FF6666;
     color: black;
     font-weight: 600;
 }
 
 .btn-order{
     @extend %btn;
-    background-color: blueviolet;
+    background-color: #F4CE6A;
     color: black;
     font-weight: 600;
 }
